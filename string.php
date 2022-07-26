@@ -1,0 +1,24 @@
+<?php
+echo str_repeat("Emobilis mobile technology",5);
+echo"<br>";
+echo  str_rot13("Emobilis mobile Technology");
+echo"<br>";
+echo strcmp("emobilis mobile technology",'emobilis');
+echo"<br>";
+echo strcoll("emobilis","emobilis mobile technology");
+$n="20.56";
+echo"<br>";
+echo var_dump($n);
+$n2="50";
+echo"<br>";
+echo var_dump($n2);
+echo"<br>";
+$true= true;
+echo"<br>";
+echo var_dump($true);
+echo"<br>";
+$false=false;
+echo"<br>";
+echo var_dump($false);
+echo"<br>";
+echo sqrt(49);
